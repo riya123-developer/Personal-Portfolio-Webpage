@@ -12,7 +12,7 @@
 
 *Mentor Name*: Neela Santhosh
 
-*Description of Task: In this project, we will build a responsive personal portfolio website using HTML, CSS. The website will serve as an online resume or CV, showcasing the user's skills, experience, and work portfolio.
+*Description of Task*: In this project, we will build a responsive personal portfolio website using HTML, CSS. The website will serve as an online resume or CV, showcasing the user's skills, experience, and work portfolio.
 
 Features:
 1. Personal Profile: Display name, designation, and image.
